@@ -1,6 +1,12 @@
 //
 // Created by ancebuc on 08/10/2020.
 //
+/*
+Nombre:
+Grupo:
+Nombre del fichero:
+Descripción:
+*/
 
  #include "Circunferencia.h"
  #include <cmath>;
